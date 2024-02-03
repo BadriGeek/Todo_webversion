@@ -3,6 +3,7 @@ import functions
 import os
 
 
+
 todos = functions.get_todos()
 
 def add_todo():
